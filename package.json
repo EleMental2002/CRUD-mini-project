@@ -182,6 +182,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "kaushik",
+  "author": "parasar",
   "license": "ISC"
 }
